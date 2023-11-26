@@ -1,0 +1,39 @@
+name: asses_flutter
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/burgerFix.png
+    - images/cocacolaFix.png
+    - images/kentangFix.png
+    - images/tacosFix.png
+    - images/esjerukFix.png
+    - images/indomiFix.png
+    - images/buburayamFix.png
+    - images/profileFix.png
+    - images/eggsandwich.png
+    - images/frenchfries.png
+    - images/burger.png
+    - images/tacosFix.png
+    - images/jusmangga.png
+    - images/thaitea.png
+    - images/profile.png
+    - images/esteh.png
+    - images/hotdog.png
+    - images/logotb.png
